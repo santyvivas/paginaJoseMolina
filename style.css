@@ -1,5 +1,6 @@
 body{
     font-family: "Inter var", -apple-system, BlinkMacSystemFont, "Helvetica Neue", Helvetica, sans-serif;
+    background-color: #f5efe0;
 }
 
 a{
@@ -27,4 +28,10 @@ a{
 
 .paddingMenu:hover{
     color: aquamarine;
+}
+
+.about-me{
+    font-family: NonBreakingSpaceOverride, "Hoefler Text", "Noto Serif", Garamond, "Times New Roman", serif;
+    font-size: larger;
+    letter-spacing: normal;
 }
