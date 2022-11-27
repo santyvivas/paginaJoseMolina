@@ -1,3 +1,11 @@
+body{
+    font-family: "Inter var", -apple-system, BlinkMacSystemFont, "Helvetica Neue", Helvetica, sans-serif;
+}
+
+a{
+    text-decoration: none;
+}
+
 .header{
     width: 95% !important;
     height: 100% !important;
@@ -12,4 +20,11 @@
 
 .paddingMenu{
     padding: 8px;
+    color: black;
+    font-weight: bold;
+    transition: color 0.5s;
+}
+
+.paddingMenu:hover{
+    color: aquamarine;
 }
